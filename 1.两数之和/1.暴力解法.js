@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
- * 暴力解法
+ * 鏆村姏瑙ｆ硶
  */
 var twoSum = function(nums, target) {
     for(let i=0;i<nums.length-1;i++)
